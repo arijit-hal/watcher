@@ -63,4 +63,4 @@ The script `watcher.py` can take some additional command-line options to change 
 * `-rules rules_file`	change the default JSON file containing the watch rules .
 * `-log log_file`		change the default logfile
 *  `-h`					show the help message and exits without launching the daemon.
-# watcher
+
